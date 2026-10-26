@@ -61,17 +61,7 @@ https://github.com/Teff007/UDF/tree/main/TheBlog
 
 ---
 
-##  Meus objetivos
-
- Continuar evoluindo meus conhecimentos em Engenharia de Software.
-
- Construir uma carreira na área de Cibersegurança.
-
- Criar um portfólio que demonstre minha evolução e minhas habilidades na tecnologia.
-
----
-
-##  Onde me encontrar
+##  ONDE ME ENCONTRAR
 
  **LinkedIn:** www.linkedin.com/in/stéffany-rodrigues-3747b4356
 

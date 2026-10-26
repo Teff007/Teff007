@@ -10,7 +10,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, desenvolv
 
 ---
 
-##  O que estou estudando
+##  O QUE ESTOU ESTUDANDO
 
 *  Programação
 *  Desenvolvimento Web
@@ -22,31 +22,30 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, desenvolv
 
 ---
 
-##  Tech Stack
+##  TECH STACK
 
 ### Linguagens
 
-![Python]
-![C]
-![JavaScript]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web
 
-![HTML5]
-![CSS3]
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 
-![SQL]
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 
-![Git]
-![GitHub]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-##  Projetos
+##  PROJETOS
 
  **Projetos acadêmicos**
 Projetos desenvolvidos durante minha graduação em Engenharia de Software.
@@ -56,21 +55,15 @@ https://github.com/Teff007/UDF
 Exercícios e aplicações desenvolvidos para praticar lógica, algoritmos e diferentes linguagens.
 https://github.com/Teff007/Algoritmos-e-Pensamento-Computacional-
 
-
  **Projetos de desenvolvimento web**
 Aplicações utilizando HTML, CSS e JavaScript.
 https://github.com/Teff007/UDF/tree/main/TheBlog
-
- **Projetos futuros em Cibersegurança**
-Estou construindo minha base em programação, redes e sistemas para posteriormente desenvolver projetos voltados à segurança da informação.
 
 ---
 
 ##  Meus objetivos
 
  Continuar evoluindo meus conhecimentos em Engenharia de Software.
-
- Desenvolver projetos cada vez mais completos.
 
  Construir uma carreira na área de Cibersegurança.
 
@@ -83,7 +76,3 @@ Estou construindo minha base em programação, redes e sistemas para posteriorme
  **LinkedIn:** www.linkedin.com/in/stéffany-rodrigues-3747b4356
 
  **E-mail:** steffanychristiny2007@gmail.com
-
----
-
- *Este perfil representa minha jornada de aprendizado e evolução na área de tecnologia.*

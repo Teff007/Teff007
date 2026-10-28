@@ -1,24 +1,12 @@
 # Olá! Eu sou a Steffany Rodrigues
 
- Sou estudante de **Engenharia de Software** e estou construindo minha trajetória na área de tecnologia.
+ Sou estudante de **Engenharia de Software pela Universidade de Brasília UDF** e estou construindo minha trajetória na área de tecnologia.
 
 Atualmente, estou desenvolvendo meus conhecimentos em **programação, desenvolvimento de software e tecnologias web**, buscando entender não apenas como criar sistemas, mas também como eles funcionam por trás.
 
  Meu principal objetivo profissional é me desenvolver na área de **Cibersegurança**, aprofundando meus conhecimentos em programação, redes, sistemas e segurança da informação.
 
  Estou sempre buscando aprender, praticar e transformar o que estudo em projetos.
-
----
-
-##  O QUE ESTOU ESTUDANDO
-
-*  Programação
-*  Desenvolvimento Web
-*  Banco de Dados
-*  Algoritmos e Lógica de Programação
-*  Engenharia de Software
-*  Cibersegurança
-*  Inteligência Artificial
 
 ---
 

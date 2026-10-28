@@ -53,3 +53,9 @@ https://github.com/Teff007/UDF/tree/main/TheBlog
  **LinkedIn:** www.linkedin.com/in/stéffany-rodrigues-3747b4356
 
  **E-mail:** steffanychristiny2007@gmail.com
+ 
+---
+ <div align="center">
+*Aprender, praticar e transformar conhecimento em projetos.*
+ 
+</div>

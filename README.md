@@ -1,4 +1,4 @@
-# Olá! Eu sou a Steffany Rodrigues
+# 👋🏼 Olá! Eu sou a Steffany Rodrigues
 
  Sou estudante de **Engenharia de Software pela Universidade de Brasília UDF** e estou construindo minha trajetória na área de tecnologia.
 
@@ -10,7 +10,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, desenvolv
 
 ---
 
-##  TECH STACK
+## 💻 TECH STACK
 
 ### Linguagens
 
@@ -33,7 +33,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, desenvolv
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-##  PROJETOS
+## ⚙️ PROJETOS
 
  **Projetos acadêmicos**
 Projetos desenvolvidos durante minha graduação em Engenharia de Software.
@@ -49,7 +49,7 @@ https://github.com/Teff007/UDF/tree/main/TheBlog
 
 ---
 
-##  ONDE ME ENCONTRAR
+## 🔗 ONDE ME ENCONTRAR
 
  **LinkedIn:** www.linkedin.com/in/stéffany-rodrigues-3747b4356
 
